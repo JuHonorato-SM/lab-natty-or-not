@@ -21,14 +21,5 @@ O episódio é uma combinação de informações detalhadas com uma narrativa ac
 Adorei essa primeira experiência utilizando 3 recursos de IA's que até então eu só conhecia um. Me senti realmente desafiada e espero ter conseguido atingir meu objetivo com êxito.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+### Confira no link abaixo
+https://web.descript.com/829d88e0-71a3-42e3-a8ed-8d1131f2f277/96692?lite=false
